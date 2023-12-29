@@ -15,7 +15,6 @@ h3 {
 }
 
 .header {
-  border-bottom: 1px solid #e7e9fc;
   background-color: #ffffff;
 }
 
@@ -79,15 +78,11 @@ h3 {
   font-weight: 700;
   line-height: 1.07; /* 107.143% */
   letter-spacing: 0.02em;
-  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 
 .baner-button {
   cursor: pointer;
-  border-radius: 4px;
   background-color: #4d5ae5;
-  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
-  border-style: none;
   /* button text*/
   color: #ffffff;
   font-size: 16px;
@@ -95,12 +90,11 @@ h3 {
   font-weight: 500;
   line-height: 1.5; /* 150% */
   letter-spacing: 0.64px;
-  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 
 .baner-button:hover,
 .baner-button:focus {
-  background-color: var(--OCEAN, #404bbf);
+  background-color: #404bbf;
 }
 
 /* Features section style */
@@ -141,11 +135,7 @@ h3 {
 }
 
 .team-card {
-  border-radius: 0px 0px 4px 4px;
   background-color: #ffffff;
-  box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08),
-    0px 1px 1px 0px rgba(46, 47, 66, 0.16),
-    0px 1px 6px 0px rgba(46, 47, 66, 0.08);
 }
 
 .team-cards-title {
@@ -155,7 +145,7 @@ h3 {
   font-weight: 500;
   line-height: 1.2; /* 120% */
   letter-spacing: 0.4px;
-  color: var(--NAVY-BLUE, #2e2f42);
+  color: #2e2f42;
 }
 
 .team-cards-content {
@@ -184,11 +174,7 @@ h3 {
 }
 
 .portfolio-cards {
-  border: 1px solid #e7e9fc;
   background-color: #ffffff;
-  box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08),
-    0px 1px 1px 0px rgba(46, 47, 66, 0.16),
-    0px 1px 6px 0px rgba(46, 47, 66, 0.08);
 }
 
 .portfolio-cards-title {
