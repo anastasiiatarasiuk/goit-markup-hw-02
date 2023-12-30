@@ -27,7 +27,6 @@ h3 {
   font-size: 18px;
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
-  font-style: normal;
   line-height: 1.17; /* 116.667% */
   letter-spacing: 0.54px;
 }
@@ -58,7 +57,6 @@ h3 {
 }
 .address-link {
   font-size: 16px;
-  font-weight: 400;
   line-height: 1.5; /* 150% */
   letter-spacing: 0.32px;
   color: #434455;
@@ -126,7 +124,6 @@ h3 {
 .team-container-title {
   text-align: center;
   font-size: 36px;
-  font-style: normal;
   font-weight: 700;
   line-height: 1.11; /* 111.111% */
   letter-spacing: 0.72px;
@@ -141,7 +138,6 @@ h3 {
 .team-cards-title {
   text-align: center;
   font-size: 20px;
-  font-style: normal;
   font-weight: 500;
   line-height: 1.2; /* 120% */
   letter-spacing: 0.4px;
@@ -153,7 +149,6 @@ h3 {
   font-size: 16px;
   line-height: 1.5; /* 150% */
   letter-spacing: 0.32px;
-  color: #434455;
 }
 
 /* Portfolio section style */
@@ -165,7 +160,6 @@ h3 {
 .portfolio-container-title {
   text-align: center;
   font-size: 36px;
-  font-style: normal;
   font-weight: 700;
   line-height: 1.11; /* 111.111% */
   letter-spacing: 0.72px;
@@ -179,7 +173,6 @@ h3 {
 
 .portfolio-cards-title {
   font-size: 20px;
-  font-style: normal;
   font-weight: 500;
   line-height: 1.2; /* 120% */
   letter-spacing: 0.4px;
@@ -188,10 +181,8 @@ h3 {
 
 .portfolio-cards-content {
   font-size: 16px;
-  font-weight: 400;
   line-height: 1.5; /* 150% */
   letter-spacing: 0.32px;
-  color: #434455;
 }
 
 /* Footer section style */
@@ -215,7 +206,6 @@ h3 {
 }
 .footer-content {
   font-size: 16px;
-  font-weight: 400;
   line-height: 1.5; /* 150% */
   letter-spacing: 0.32px;
   color: #f4f4fd;
